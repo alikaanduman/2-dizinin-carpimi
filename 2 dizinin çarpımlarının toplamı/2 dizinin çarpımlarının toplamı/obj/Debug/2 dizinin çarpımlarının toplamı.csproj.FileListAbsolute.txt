@@ -1,0 +1,15 @@
+C:\Users\Ogrenci1\Desktop\29.11.2017\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\bin\Debug\2 dizinin çarpımlarının toplamı.exe.config
+C:\Users\Ogrenci1\Desktop\29.11.2017\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\2 dizinin çarpımlarının toplamı.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\29.11.2017\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\_2_dizinin_çarpımlarının_toplamı.Form1.resources
+C:\Users\Ogrenci1\Desktop\29.11.2017\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\_2_dizinin_çarpımlarının_toplamı.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\29.11.2017\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\2 dizinin çarpımlarının toplamı.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\29.11.2017\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\bin\Debug\2 dizinin çarpımlarının toplamı.exe
+C:\Users\Ogrenci1\Desktop\29.11.2017\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\bin\Debug\2 dizinin çarpımlarının toplamı.pdb
+C:\Users\Ogrenci1\Desktop\29.11.2017\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\2 dizinin çarpımlarının toplamı.exe
+C:\Users\Ogrenci1\Desktop\29.11.2017\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\2 dizinin çarpımlarının toplamı.pdb
+E:\ \Nesnel Tabanlı Programlama\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\bin\Debug\2 dizinin çarpımlarının toplamı.exe.config
+E:\ \Nesnel Tabanlı Programlama\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\2 dizinin çarpımlarının toplamı.exe
+E:\ \Nesnel Tabanlı Programlama\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\2 dizinin çarpımlarının toplamı.pdb
+D:\ \Nesnel Tabanlı Programlama\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\bin\Debug\2 dizinin çarpımlarının toplamı.exe.config
+D:\ \Nesnel Tabanlı Programlama\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\2 dizinin çarpımlarının toplamı.exe
+D:\ \Nesnel Tabanlı Programlama\2 dizinin çarpımlarının toplamı\2 dizinin çarpımlarının toplamı\obj\Debug\2 dizinin çarpımlarının toplamı.pdb
